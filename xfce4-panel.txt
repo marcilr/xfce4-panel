@@ -1,0 +1,6 @@
+xfce4-panel.txt
+Created Tue 21 Apr 2020 10:55:55 AM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+The panel of the Xfce Desktop Environement
