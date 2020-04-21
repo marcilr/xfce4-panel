@@ -8,4 +8,5 @@ xfce4-panel related links
 
 Links
 =====
-
+Xfce Desktop Environment
+http://www.xfce.org
