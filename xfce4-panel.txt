@@ -4,3 +4,5 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 The panel of the Xfce Desktop Environement
+
+Currently using xfce4-panel 4.12.2 under Debian 10.3
