@@ -5,4 +5,18 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 The panel of the Xfce Desktop Environement
 
+"The Xfce Panel is part of the Xfce Desktop Environment 
+and features application launchers, panel menus, a 
+workspace switcher and more. Many aspects of the panel
+can be configured through the GUI, but also by GTK+ style
+properties and hidden Xfconf settings."
+--xfce.org/
+
 Currently using xfce4-panel 4.12.2 under Debian 10.3
+
+
+Links
+=====
+Xfce Panel
+https://docs.xfce.org/xfce/xfce4-panel/start
+
