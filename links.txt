@@ -10,3 +10,6 @@ Links
 =====
 Xfce Desktop Environment
 http://www.xfce.org
+
+Xfce Panel
+https://docs.xfce.org/xfce/xfce4-panel/start
