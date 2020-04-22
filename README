@@ -5,6 +5,12 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+links.txt
+  xfce4-panel related links
+
+syntax.txt
+  Syntax for xfce4-panel
+
 xfce4-panel.txt
   The panel of the Xfce Desktop Environement
 
