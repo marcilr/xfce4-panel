@@ -1,5 +1,5 @@
 xfce4-panel.txt
-Created Tue 21 Apr 2020 10:55:55 AM AKDT
+Created Fri 17 Apr 2020 08:32:27 PM AKDT
 Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 
@@ -20,3 +20,6 @@ Links
 Xfce Panel
 https://docs.xfce.org/xfce/xfce4-panel/start
 
+xfce4-panel 4.12.2
+Xfce Desktop Environmnet
+http://www.xfce.org
